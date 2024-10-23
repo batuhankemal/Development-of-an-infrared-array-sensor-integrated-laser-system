@@ -1,0 +1,14 @@
+../Core/Src/SerialHandler.c:20:6:Init_UartHandler	16	static
+../Core/Src/SerialHandler.c:55:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/SerialHandler.c:80:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/SerialHandler.c:103:6:UartHandler_Add2Buffer	16	static
+../Core/Src/SerialHandler.c:114:8:UartHandler_GetFromBuffer	24	static
+../Core/Src/SerialHandler.c:134:6:USB_WriteChar	16	static
+../Core/Src/SerialHandler.c:140:6:USB_Send	16	static
+../Core/Src/SerialHandler.c:146:6:RS485_WriteChar	16	static
+../Core/Src/SerialHandler.c:152:6:RS485_Send	16	static
+../Core/Src/SerialHandler.c:158:6:RS232_WriteChar	16	static
+../Core/Src/SerialHandler.c:162:6:RS232_Send	16	static
+../Core/Src/SerialHandler.c:167:6:UartHandler_ClearBuffer	16	static
+../Core/Src/SerialHandler.c:193:8:UartHandler_GetModbusData	32	static
+../Core/Src/SerialHandler.c:217:6:hexDump	56	static

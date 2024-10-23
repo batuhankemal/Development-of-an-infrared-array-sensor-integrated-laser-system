@@ -1,0 +1,8 @@
+../Core/Src/peripherals.c:33:6:Init_IOStates	8	static
+../Core/Src/peripherals.c:45:9:Power_Fail	4	static
+../Core/Src/peripherals.c:54:6:DAC_sendCommand	24	static
+../Core/Src/peripherals.c:73:6:IO_check_timeout	8	static
+../Core/Src/peripherals.c:91:6:IO_control_laser	16	static
+../Core/Src/peripherals.c:126:6:Laser_Target_Temp_Check	24	static
+../Core/Src/peripherals.c:152:6:Buzzer_Effects	16	static
+../Core/Src/peripherals.c:180:6:Alarm_Functions	4	static

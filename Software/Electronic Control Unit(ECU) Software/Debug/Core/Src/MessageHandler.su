@@ -1,0 +1,4 @@
+../Core/Src/MessageHandler.c:15:6:HandleMessage	312	static
+../Core/Src/MessageHandler.c:138:13:tokenize	24	static
+../Core/Src/MessageHandler.c:174:15:strtok_single	24	static
+../Core/Src/MessageHandler.c:198:5:memsearch	40	static
